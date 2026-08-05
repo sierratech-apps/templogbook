@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Privacy Policy — Fridge Temperature Log Book
 
-_Last updated: 3 August 2026_
+_Last updated: 5 August 2026_
 
 ## Summary
 
@@ -26,13 +26,17 @@ If you use the app's Export feature, you choose to generate a PDF file and share
 
 ## Backups
 
-Because the app's database lives in your device's Documents folder, it is visible to the Files app and included in your device's normal backup mechanisms (e.g., iCloud device backup, Finder/iTunes backup), the same as any other document on your device. We do not operate any separate backup service.
+The app's data is included in your device's normal backup mechanisms (e.g., iCloud device backup, Finder/iTunes backup), the same as any other app's data on your device. It is not separately browsable through the Files app — this is intentional, so your compliance records aren't directly editable outside the app. We do not operate any separate backup service.
 
 ## In-app purchases
 
 The one-time "PDF export unlock" purchase is processed by Apple through standard In-App Purchase. We do not receive or store your payment information — Apple handles that in accordance with its own privacy policy.
 
 To validate the purchase and let you restore it after reinstalling the app or switching devices, the app uses RevenueCat, a third-party purchase-management service. RevenueCat receives an anonymous, randomly generated app user ID, your purchase receipt, and basic device information (such as device model and app version). This data is not linked to your identity — the app never sends your name, email, temperature log entries, staff names, or business details to RevenueCat or anyone else. See RevenueCat's privacy policy at https://www.revenuecat.com/privacy for details.
+
+## Notifications
+
+If you turn on the optional daily reminder, the app schedules a local notification directly with your device's operating system — no server, push service, or third party is involved, and no data leaves your device to make this work. The reminder's time is stored locally the same way your other settings are. You can turn reminders off at any time in the app, or disable notifications for the app entirely in your device's system settings.
 
 ## Analytics and tracking
 
