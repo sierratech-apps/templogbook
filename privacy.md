@@ -52,4 +52,4 @@ If this policy changes, the updated version will be posted at this same URL with
 
 ## Contact
 
-teodor.ciuraru@sierratech.ro
+teodor@sierratech.ro

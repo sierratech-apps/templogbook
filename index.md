@@ -99,7 +99,7 @@ no annual renewal, no per-location fees.
 
 ## Support
 
-Have a question, found a bug, or need help with a purchase? Email **[teodor.ciuraru@sierratech.ro](mailto:teodor.ciuraru@sierratech.ro)** and we'll get back to you.
+Have a question, found a bug, or need help with a purchase? Email **[teodor@sierratech.ro](mailto:teodor@sierratech.ro)** and we'll get back to you.
 
 ### Frequently asked questions
 
